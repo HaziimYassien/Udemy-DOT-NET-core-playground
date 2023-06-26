@@ -1,0 +1,15 @@
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\bin\Debug\net7.0\MyApp.exe
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\bin\Debug\net7.0\MyApp.dll
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.dll
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+C:\Users\hazii\Documents\GitHub\Udemy-DOT-NET-core-playground\netOne\MyApp\obj\Debug\net7.0\ref\MyApp.dll
